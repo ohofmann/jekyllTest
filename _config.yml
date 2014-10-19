@@ -1,0 +1,12 @@
+# Site settings
+title: HBC White Label
+email: ohofmann@hsph.harvard.edu
+description: > # this means to ignore newlines until "baseurl:"
+  The Core aids researchers within the Harvard community with the management, integration and contextual analysis of biological high-throughput data. It provides consulting, training, tools, databases and best practices. It fosters collaboration and a community of bioinformatics activities, and build a unified infrastructure supporting a diverse set of experimental systems and high-throughput biological data.
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: fiamh
+github_username:  ohofmann
+
+# Build settings
+markdown: redcarpet
